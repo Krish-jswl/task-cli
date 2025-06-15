@@ -20,9 +20,5 @@ git clone https://github.com/Krish-jswl/task-cli.git && cd task-cli
 ```
 
 ```bash
-make
-```
-
-```bash
 make && sudo mv task /usr/local/bin/
 ```
