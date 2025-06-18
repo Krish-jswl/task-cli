@@ -8,9 +8,9 @@ int main(int argc, char *argv[])
  
   if (argc < 2){
     printf("Usage:\n");
-    printf(" ./task -a \"task description\"\n");
-    printf(" ./task -v\n");
-    printf(" ./task -c <index>\n");
+    printf(" task -a \"task description\"\n");
+    printf(" task -v\n");
+    printf(" task -c <index>\n");
     return 1;
   }
 
